@@ -1,5 +1,4 @@
 ## ***Hi there 👋***
----
 - 🔭 I’m currently working on GNU/Linux
 - 🌱 I’m currently learning GNU C & QT
 - 👯 I’m looking to collaborate on Theodore Cooper
